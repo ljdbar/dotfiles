@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = louisjdbarlas@gmail.com
+	name = louis barlas
